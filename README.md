@@ -1,5 +1,9 @@
-- 👋Hi, I’m Timileyin,you can call me Turner
-- I’m interested in Cybersecurity.
+# 👋Hi, My Name is Timileyin
+
+## Quality Assurance Tester
+- 🌍  I'm based in Nigeria
+- 🧠  I'm Proficient in Manual Testing and learning Automated Testing
+- 🤝  I'm open to collaborating on projects
 - 📫 How to reach me Email: thatboytimiy@gmail.com
 
 <!---
